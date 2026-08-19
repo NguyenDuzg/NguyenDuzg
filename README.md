@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🛠️ Technical Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,sass,figma&theme=dark" alt="Skills" />
+</p>
