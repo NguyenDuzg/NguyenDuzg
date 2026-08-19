@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #070B10;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 100vh;
+}
+
+#banner {
+    width: 1600px;
+    height: 450px;
+
+    background: #0D1117;
+
+    border-radius: 12px;
+
+    overflow: hidden;
+}
