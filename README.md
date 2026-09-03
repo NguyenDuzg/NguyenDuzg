@@ -1,5 +1,5 @@
 ## Nguyễn Tiến Dũng 
-
+![banner](banner.gif)
 <!--
 **NguyenDuzg/NguyenDuzg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
